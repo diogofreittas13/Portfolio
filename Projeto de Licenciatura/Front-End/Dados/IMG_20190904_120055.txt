@@ -1,0 +1,114 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+Warning                         : [minor] Unrecognized MakerNotes
+Warning                         : [minor] Unrecognized MakerNotes
+Warning                         : [minor] Unrecognized MakerNotes
+---- System ----
+File Name                       : IMG_20190904_120055.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 12 MiB
+File Modification Date/Time     : 2021:08:17 17:14:35+01:00
+File Access Date/Time           : 2021:08:17 17:14:35+01:00
+File Creation Date/Time         : 2021:07:01 17:03:18+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 8000
+Image Height                    : 6000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Image Width                     : 8000
+Image Height                    : 6000
+Bits Per Sample                 : 8 8 8
+Make                            : HUAWEI
+Camera Model Name               : MAR-LX1A
+Orientation                     : Unknown (0)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : MAR-L21A 9.1.0.215(C431E6R2P3)
+Modify Date                     : 2019:09:04 12:00:57
+Y Cb Cr Positioning             : Centered
+Device Setting Description      : (Binary data 4 bytes, use -b option to extract)
+---- ExifIFD ----
+Document Name                   : 
+Exposure Time                   : 1/1938
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0210
+Date/Time Original              : 2019:09:04 12:00:57
+Create Date                     : 2019:09:04 12:00:57
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 0.95
+Shutter Speed Value             : 1/999963365
+Aperture Value                  : 1.8
+Brightness Value                : 0
+Exposure Compensation           : 0
+Max Aperture Value              : 1.8
+Metering Mode                   : Multi-segment
+Light Source                    : Daylight
+Flash                           : No Flash
+Focal Length                    : 4.8 mm
+Maker Note Unknown Text         : Auto
+Maker Note Unknown Text         : ##**rrem
+Sub Sec Time                    : 362562
+Sub Sec Time Original           : 362562
+Sub Sec Time Digitized          : 362562
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 8000
+Exif Image Height               : 6000
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 27 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Image Width                     : 512
+Image Height                    : 384
+Compression                     : JPEG (old-style)
+Orientation                     : Unknown (0)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 9094
+Thumbnail Length                : 30600
+Thumbnail Image                 : (Binary data 30600 bytes, use -b option to extract)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 96
+Y Resolution                    : 96
+---- Composite ----
+Aperture                        : 1.8
+Image Size                      : 8000x6000
+Megapixels                      : 48.0
+Scale Factor To 35 mm Equivalent: 5.7
+Shutter Speed                   : 1/1938
+Create Date                     : 2019:09:04 12:00:57.362562
+Date/Time Original              : 2019:09:04 12:00:57.362562
+Modify Date                     : 2019:09:04 12:00:57.362562
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 67.4 deg
+Focal Length                    : 4.8 mm (35 mm equivalent: 27.0 mm)
+Hyperfocal Distance             : 2.37 m
+Light Value                     : 13.6

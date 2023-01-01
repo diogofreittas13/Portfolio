@@ -1,0 +1,676 @@
+{
+    "links": [
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/chelseaAliados.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/ParquedaCidade.jpeg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/Ta\u00e7aalidados2.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_4799.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_4846.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_8198_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_0247_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5378_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_8899_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_1107.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_2254.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_0944.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_2232.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_4077_Original.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5399_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5402_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5397_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5400_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5366_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5363_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5368_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5369_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5388_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5393_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/Cityrio.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/PonteDLuisGaia.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/Ta\u00e7aAliados.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/-3522644760366661810_IMG_4129.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5685.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5673.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20180708_155727.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210430_185155.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_2232.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_5393_Original.HEIC",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20190904_144035.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_7045.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_7500.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/willsmith.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/therock.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/ronaldoemessi.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/margot.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_4846.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/polonia.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20180708_120455.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/ronaldomessineymar2.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210608_121457.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210315_124516.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20201202_121232.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/messi.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210520_113343.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210625_124415.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210625_124615.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20190904_120055.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20190904_104224.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20210606_111023.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_7045.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_7012.JPG",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20201202_121232.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/messi.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/ronaldomessineymar2.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/neymar.jpg",
+            "value": 1
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/Estadiododrag\u00e3o.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_1556.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_2225.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_6755.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_4830.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_0004_Original.HEIC",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/Aliados.JPG",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20200830_102622.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20200830_101310.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_20200823_114639.jpg",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_7047.JPG",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/IMG_6940.JPG",
+            "value": 10
+        },
+        {
+            "source": "./static/img/imagens/IMG_0258_Original.HEIC",
+            "target": "./static/img/imagens/neymar.jpg",
+            "value": 10
+        }
+    ],
+    "nodes": [
+        {
+            "group": 0,
+            "id": "./static/img/imagens/IMG_0258_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/chelseaAliados.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/ParquedaCidade.jpeg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/Ta\u00e7aalidados2.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_4799.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_4846.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_8198_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_0247_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5378_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_8899_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_1107.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_2254.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_0944.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_2232.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_4077_Original.jpg"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5399_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5402_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5397_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5400_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5366_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5363_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5368_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5369_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5388_Original.HEIC"
+        },
+        {
+            "group": 2,
+            "id": "./static/img/imagens/IMG_5393_Original.HEIC"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/Cityrio.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/PonteDLuisGaia.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/Ta\u00e7aAliados.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/-3522644760366661810_IMG_4129.JPG"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_5685.JPG"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_5673.JPG"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_20180708_155727.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_20210430_185155.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_2232.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_5393_Original.HEIC"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_20190904_144035.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_7045.JPG"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/IMG_7500.JPG"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/willsmith.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/therock.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/ronaldoemessi.jpg"
+        },
+        {
+            "group": 3,
+            "id": "./static/img/imagens/margot.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_4846.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/polonia.JPG"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20180708_120455.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/ronaldomessineymar2.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210608_121457.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210315_124516.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20201202_121232.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/messi.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210520_113343.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210625_124415.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210625_124615.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20190904_120055.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20190904_104224.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20210606_111023.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_7045.JPG"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_7012.JPG"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/IMG_20201202_121232.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/messi.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/ronaldomessineymar2.jpg"
+        },
+        {
+            "group": 4,
+            "id": "./static/img/imagens/neymar.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/Estadiododrag\u00e3o.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_1556.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_2225.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_6755.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_4830.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_0004_Original.HEIC"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/Aliados.JPG"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_20200830_102622.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_20200830_101310.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_20200823_114639.jpg"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_7047.JPG"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/IMG_6940.JPG"
+        },
+        {
+            "group": 6,
+            "id": "./static/img/imagens/neymar.jpg"
+        }
+    ]
+}

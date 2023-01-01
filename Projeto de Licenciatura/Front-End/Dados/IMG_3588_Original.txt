@@ -1,0 +1,155 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : IMG_3588_Original.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 2.4 MiB
+File Modification Date/Time     : 2021:07:05 16:51:14+01:00
+File Access Date/Time           : 2021:07:05 16:51:14+01:00
+File Creation Date/Time         : 2021:07:05 16:51:14+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
+Image Width                     : 2819
+Image Height                    : 3320
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone 7
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 12.3.1
+Modify Date                     : 2019:07:20 18:20:27
+Tile Width                      : 512
+Tile Length                     : 512
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- ExifIFD ----
+Exposure Time                   : 1/141
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 20
+Exif Version                    : 0221
+Date/Time Original              : 2019:07:20 18:20:27
+Create Date                     : 2019:07:20 18:20:27
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/141
+Aperture Value                  : 1.8
+Brightness Value                : 6.33603408
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 4.0 mm
+Subject Area                    : 2015 1511 2217 1330
+Sub Sec Time Original           : 649
+Sub Sec Time Digitized          : 649
+Flashpix Version                : 0100
+Exif Image Width                : 2819
+Exif Image Height               : 3320
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 28 mm
+Scene Capture Type              : Standard
+Image Unique ID                 : 2e9e0b40683d6d2a0000000000000000
+Lens Info                       : 3.99000001mm f/1.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 7 back camera 3.99mm f/1.8
+---- Apple ----
+Apple 0x0001                    : 10
+Apple 0x0002                    : bplist00O..ìõK4=.”u.j...§ie[EL\èôN4Â5[...]
+Run Time Flags                  : Valid
+Run Time Value                  : 12657938675083
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Apple 0x0004                    : 1
+Apple 0x0005                    : 163
+Apple 0x0006                    : 166
+Apple 0x0007                    : 1
+Acceleration Vector             : 0.008468187413 -1.005578875 0.01926544683
+Apple 0x000c                    : 0.328125 0.33203125
+Apple 0x000d                    : 43
+Apple 0x000e                    : 4
+Apple 0x0010                    : 1
+Apple 0x0014                    : 1
+Apple 0x0017                    : 0
+Apple 0x0019                    : 0
+Apple 0x001a                    : q825s
+Apple 0x001f                    : 0
+Apple 0x0025                    : 0
+Apple 0x0026                    : 0
+Apple 0x0027                    : 0
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 1904
+Thumbnail Length                : 7448
+Thumbnail Image                 : (Binary data 7448 bytes, use -b option to extract)
+---- XMP-x ----
+XMP Toolkit                     : XMP Core 5.5.0
+---- XMP-xmp ----
+Create Date                     : 2019:07:20 18:20:27
+Modify Date                     : 2019:07:20 18:20:27
+Creator Tool                    : 12.3.1
+---- XMP-photoshop ----
+Date Created                    : 2019:07:20 18:20:27
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- Photoshop ----
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+---- Composite ----
+Run Time Since Power Up         : 3:30:58
+Aperture                        : 1.8
+Image Size                      : 2819x3320
+Megapixels                      : 9.4
+Scale Factor To 35 mm Equivalent: 7.0
+Shutter Speed                   : 1/141
+Create Date                     : 2019:07:20 18:20:27.649
+Date/Time Original              : 2019:07:20 18:20:27.649
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 65.5 deg
+Focal Length                    : 4.0 mm (35 mm equivalent: 28.0 mm)
+Hyperfocal Distance             : 2.07 m
+Light Value                     : 11.2
+Lens ID                         : iPhone 7 back camera 3.99mm f/1.8

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Sqlite" id="Project_22f5" database="Sqlite" >
+	<schema name="Default" >
+		<table name="DADOSFIXOS" >
+			<column name="Marca" type="text" jt="-1" />
+			<column name="Modelo" type="text" jt="-1" />
+			<column name="Tipo de Ficheiro" type="text" jt="-1" />
+			<column name="Resolução" type="text" jt="-1" />
+		</table>
+		<table name="DISPOSITIVOS" >
+			<column name="Marca_Id" type="integer" jt="4" >
+				<identity><![CDATA[autoincrement]]></identity>
+			</column>
+			<column name="Marca" type="text" jt="-1" />
+			<column name="Modelo" type="text" jt="-1" />
+			<column name="&quot;Marca_Id&quot; AUTOINCREMENT" type="varchar" jt="12" spec="functional" />
+			<index name="pk_DISPOSITIVOS" unique="UNIQUE_KEY" >
+				<column name="&quot;Marca_Id&quot; AUTOINCREMENT" />
+			</index>
+			<index name="Pk_DISPOSITIVOS_Marca_Id" unique="UNIQUE_KEY" >
+				<column name="Marca_Id" />
+			</index>
+		</table>
+		<table name="FORMATOS" >
+			<column name="Formatos_Id" type="integer" jt="4" >
+				<identity><![CDATA[autoincrement]]></identity>
+			</column>
+			<column name="Formatos" type="text" jt="-1" />
+			<column name="&quot;Formatos_Id&quot; AUTOINCREMENT" type="varchar" jt="12" spec="functional" />
+			<index name="pk_FORMATOS" unique="UNIQUE_KEY" >
+				<column name="&quot;Formatos_Id&quot; AUTOINCREMENT" />
+			</index>
+			<index name="Pk_FORMATOS_Formatos_Id" unique="UNIQUE_KEY" >
+				<column name="Formatos_Id" />
+			</index>
+		</table>
+		<table name="IMAGEM" >
+			<column name="Imagem_ID" type="integer" jt="4" mandatory="y" />
+			<column name="Imagem" type="blob" jt="2004" />
+			<column name="UserId" type="integer" jt="4" />
+			<column name="Marca_ID" type="integer" jt="4" />
+			<column name="Resolução_Id" type="integer" jt="4" />
+			<column name="Formatos_Id" type="integer" jt="4" />
+			<column name="Hora" type="text" jt="-1" />
+			<column name="Data" type="text" jt="-1" />
+			<column name="GPS_Latitude" type="text" jt="-1" />
+			<column name="GPS_Longitude" type="text" jt="-1" />
+			<column name="User_Comment" type="text" jt="-1" />
+			<column name="&quot;Imagem ID&quot; AUTOINCREMENT" type="varchar" jt="12" spec="functional" />
+			<index name="pk_IMAGEM" unique="PRIMARY_KEY" >
+				<column name="Imagem_ID" />
+			</index>
+			<fk name="Fk_IMAGEM" to_schema="Default" to_table="USER" >
+				<fk_column name="UserId" pk="Id" />
+			</fk>
+			<fk name="Fk_IMAGEM" to_schema="Default" to_table="DISPOSITIVOS" >
+				<fk_column name="Marca_ID" pk="Marca_Id" />
+			</fk>
+			<fk name="Fk_IMAGEM" to_schema="Default" to_table="RESOLUÇÕES" >
+				<fk_column name="Resolução_Id" pk="Resolução_Id" />
+			</fk>
+			<fk name="Fk_IMAGEM" to_schema="Default" to_table="FORMATOS" >
+				<fk_column name="Formatos_Id" pk="Formatos_Id" />
+			</fk>
+		</table>
+		<table name="RESOLUÇÕES" >
+			<column name="Resolução_Id" type="integer" jt="4" >
+				<identity><![CDATA[autoincrement]]></identity>
+			</column>
+			<column name="Marca_Id" type="integer" jt="4" />
+			<column name="Resolução" type="integer" jt="4" />
+			<column name="&quot;Resolução_Id&quot; AUTOINCREMENT" type="varchar" jt="12" spec="functional" />
+			<index name="pk_RESOLUÇÕES" unique="UNIQUE_KEY" >
+				<column name="&quot;Resolução_Id&quot; AUTOINCREMENT" />
+			</index>
+			<index name="Pk_RESOLUÇÕES_Resolução_Id" unique="UNIQUE_KEY" >
+				<column name="Resolução_Id" />
+			</index>
+			<fk name="Fk_RESOLUÇÕES" to_schema="Default" to_table="DISPOSITIVOS" >
+				<fk_column name="Marca_Id" pk="Marca_Id" />
+			</fk>
+		</table>
+		<table name="USER" >
+			<column name="Id" type="integer" jt="4" >
+				<identity><![CDATA[autoincrement]]></identity>
+			</column>
+			<column name="email" type="text" jt="-1" />
+			<column name="password" type="text" jt="-1" />
+			<column name="&quot;Id&quot; AUTOINCREMENT" type="varchar" jt="12" spec="functional" />
+			<index name="pk_USER" unique="UNIQUE_KEY" >
+				<column name="&quot;Id&quot; AUTOINCREMENT" />
+			</index>
+			<index name="Pk_USER_Id" unique="UNIQUE_KEY" >
+				<column name="Id" />
+			</index>
+		</table>
+	</schema>
+	<connector name="Sqlite" database="Sqlite" driver_class="org.sqlite.JDBC" driver_jar="sqlite-jdbc-3.34.0.jar" driver_desc="Standard" url="jdbc:sqlite:C:/Users/diogo/Desktop/Faculdade/3ªANO/2 SEMESTRE/PESTA/Front-End/Tabela.db" host="localhost" port="7210" instance="C:/Users/diogo/Desktop/Faculdade/3ªANO/2 SEMESTRE/PESTA/Front-End/Tabela.db" />
+	<layout name="Layout with Tools" id="Layout_b04" show_column_type="y" show_relation="columns" >
+		<entity schema="Default" name="DADOSFIXOS" color="BED3F4" x="48" y="48" />
+		<entity schema="Default" name="DISPOSITIVOS" color="C7F4BE" x="368" y="272" />
+		<entity schema="Default" name="FORMATOS" color="BED3F4" x="368" y="416" />
+		<entity schema="Default" name="IMAGEM" color="3986C1" x="816" y="64" />
+		<entity schema="Default" name="RESOLUÇÕES" color="C7F4BE" x="48" y="272" />
+		<entity schema="Default" name="USER" color="F4DDBE" x="368" y="80" />
+		<script name="Sample SQL Editor" id="Editor_1041" language="SQL" >
+			<string><![CDATA[SELECT ID, UserId, Hora, Data, [GPS Location], [User Comment]
+FROM
+	DADOSRELATIVOS S;]]></string>
+		</script>
+		<query id="Query_1661" name="Sample Query Builder" >
+			<query_table schema="Default" name="USER" alias="u" x="48" y="48" >
+				<column name="Id" />
+				<column name="email" />
+				<column name="password" />
+				<query_table schema="Default" name="IMAGEM" alias="i" x="240" y="48" fk="Fk_IMAGEM" type="Inner Join" />
+			</query_table>
+		</query>
+		<form name="Report" id="Report_3e1" template="Page" css="container-fluid" view="frame" >
+			<body name="Body" template="Grid" pos="0,0,0,0,f,f" layout="{{-2},{-2}}" scroll="n" html="n" />
+		</form>
+		<form name="Sample Report" id="Report_15ed" template="Page" css="container-fluid" view="frame" >
+			<var name="samplePageNumber" type="4" value="0" mandatory="n" />
+			<var name="sampleRecordsPerPage" type="4" value="100" mandatory="n" />
+			<body name="Body" template="Grid" pos="0,0,0,0,f,f" layout="{{-2,-2,-2,-2,-1},{-2,-2,-2}}" scroll="n" html="n" >
+				<cell type="label" name="sample" template="H3" pos="0,0,1,0,l,c" />
+				<tableview name="sample" template="Table" css="table table-striped table-bordered table-sm table-hover" pos="0,1,4,1,f,f" layout="{{-2,-2,-2,-2,-2,-2},{-2,-2}}" scroll="n" html="n" header_rows="1" >
+					<form_script type="DataSource" language="SQL" >
+						<var name="ID" type="4" />
+						<var name="UserId" type="4" />
+						<var name="Hora" type="-1" />
+						<var name="Data" type="-1" />
+						<var name="GPS Location" type="2" />
+						<var name="User Comment" type="-1" />
+						<script ><![CDATA[SELECT * FROM DADOSRELATIVOS]]></script>
+					</form_script>
+					<cell type="label" name="ID" pos="0,0,0,0,c,c" />
+					<cell type="label" name="UserId" pos="1,0,1,0,c,c" />
+					<cell type="label" name="Hora" pos="2,0,2,0,c,c" />
+					<cell type="label" name="Data" pos="3,0,3,0,c,c" />
+					<cell type="label" name="GPS Location" pos="4,0,4,0,c,c" />
+					<cell type="label" name="User Comment" pos="5,0,5,0,c,c" />
+					<cell type="label" name="${ID}" template="Plain" pos="0,1,0,1,l,c" />
+					<cell type="label" name="${UserId}" template="Plain" pos="1,1,1,1,l,c" />
+					<cell type="label" name="${Hora}" template="Plain" pos="2,1,2,1,l,c" />
+					<cell type="label" name="${Data}" template="Plain" pos="3,1,3,1,l,c" />
+					<cell type="label" name="${GPS Location}" template="Plain" pos="4,1,4,1,l,c" />
+					<cell type="label" name="${User Comment}" template="Plain" pos="5,1,5,1,l,c" />
+				</tableview>
+				<cell type="href" name="" disabled="${samplePageNumber&lt;1}" pos="0,2,0,2,l,c" glyph="FA-ANGLE_DOUBLE_LEFT" ref_id="Report_15ed" >
+					<var name="samplePageNumber" value="0" />
+				</cell>
+				<cell type="href" name="" disabled="${samplePageNumber&lt;1}" pos="1,2,1,2,l,c" glyph="FA-ANGLE_LEFT" ref_id="Report_15ed" >
+					<var name="samplePageNumber" value="${Math.max(0,samplePageNumber-1)}" />
+				</cell>
+				<cell type="label" name="Page ${samplePageNumber+1}" pos="2,2,2,2,l,c" />
+				<cell type="href" name="" disabled="${!sampleHasNextPage}" pos="3,2,3,2,l,c" glyph="FA-ANGLE_RIGHT" ref_id="Report_15ed" >
+					<var name="samplePageNumber" value="${( samplePageNumber+1 )}" />
+				</cell>
+			</body>
+		</form>
+	</layout>
+	<layout name="Main Layout" id="Layout_cc4" show_relation="columns" >
+		<entity schema="Default" name="DADOSFIXOS" color="BED3F4" x="48" y="256" />
+		<entity schema="Default" name="DISPOSITIVOS" color="C7F4BE" x="48" y="80" />
+		<entity schema="Default" name="FORMATOS" color="BED3F4" x="288" y="256" />
+		<entity schema="Default" name="RESOLUÇÕES" color="C7F4BE" x="272" y="80" />
+		<entity schema="Default" name="USER" color="F4DDBE" x="528" y="80" />
+		<group name="DADOSFIXOS" color="ECF0F7" >
+			<entity schema="Default" name="DADOSFIXOS" />
+			<entity schema="Default" name="FORMATOS" />
+		</group>
+		<group name="DISPOSITIVOS" color="EEF7EC" >
+			<entity schema="Default" name="DISPOSITIVOS" />
+			<entity schema="Default" name="RESOLUÇÕES" />
+		</group>
+		<group name="USER" color="F7F2EC" >
+			<entity schema="Default" name="USER" />
+		</group>
+	</layout>
+</project>

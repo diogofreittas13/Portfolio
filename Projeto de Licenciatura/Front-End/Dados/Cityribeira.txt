@@ -1,0 +1,48 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : Cityribeira.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 1029 KiB
+File Modification Date/Time     : 2021:06:09 21:25:53+01:00
+File Access Date/Time           : 2021:06:09 21:25:53+01:00
+File Creation Date/Time         : 2021:06:05 21:48:46+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 3120
+Image Height                    : 2048
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+---- IFD0 ----
+Make                            : Samsung
+Camera Model Name               : S10+
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exif Version                    : 0231
+Create Date                     : 2021:05:29 19:00:54
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Adeptos do City na Ribeira do Porto
+Flashpix Version                : 0100
+---- GPS ----
+GPS Latitude Ref                : North
+GPS Latitude                    : 41 deg 8' 25.64"
+GPS Longitude Ref               : West
+GPS Longitude                   : 8 deg 36' 42.07"
+---- Composite ----
+Image Size                      : 3120x2048
+Megapixels                      : 6.4
+GPS Latitude                    : 41 deg 8' 25.64" N
+GPS Longitude                   : 8 deg 36' 42.07" W
+GPS Position                    : 41 deg 8' 25.64" N, 8 deg 36' 42.07" W

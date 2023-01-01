@@ -1,0 +1,353 @@
+<!DOCTYPE html> 
+<html> 
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+     <!-- Bootstrap -->	
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/headers/">
+     <!-- Bootstrap -->	
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--===============================================================================================-->	
+    <link rel="icon" type="image/png" href="/static/img/images/icons/favicon.ico"/>
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/animate/animate.css">
+    <!--===============================================================================================-->	
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->	
+    <link rel="stylesheet" type="text/css" href="/static/style/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="/static/style/css/util.css">
+    <link rel="stylesheet" type="text/css" href="/static/style/css/main.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/js" href="/static/js/main.js">
+    <!--===============================================================================================-->
+
+    <!-- MDB -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.css" rel="stylesheet" />  
+    <!-- MDB -->
+
+    <!-- Axios -->
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+ 
+      <style>
+          
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+        /* Base Styles */
+
+        :root {
+            font-size: 10px;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Open Sans", Arial, sans-serif;
+            background-color: #fafafa;
+            color: #262626;
+            padding-bottom: 3rem;
+        }
+
+        img {
+            display: block;
+        }
+
+        .container {
+            max-width: 93.5rem;
+            margin: 0 auto;
+            padding: 0 2rem;
+            position: relative;
+        }
+
+        .btn {
+            display: inline-block;
+            font: inherit;
+            background: none;
+            border: none;
+            color: inherit;
+            padding: 0;
+            cursor: pointer;
+        }
+
+        .btn:focus {
+            outline: 0.5rem auto #4d90fe;
+        }
+
+        .visually-hidden {
+            position: absolute !important;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+            clip: rect(1px, 1px, 1px, 1px);
+        }
+
+        /* Closable button inside the image */
+        .closebtn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            color: white;
+            font-size: 35px;
+            cursor: pointer;
+        }
+
+        /* Spinner Animation */
+
+        @keyframes loader {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+      
+    </style>
+    </head>
+    <body> 
+        <div class="bg-image" style="background-image: url('/static/img/images/fundo.jpg');">
+            <nav class="navbar-expand-lg navbar-dark bg-dark">
+                <div class="container-fluid">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li><a class="nav-link px-3" href="/HomePage" >Home</a></li>
+                            <li><a class="nav-link active px-3" href="/Player" >Feed</a></li>
+                        </ul>
+                        <div class="d-flex align-items-center">
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                                <li><a class="nav-link px-3 " href="/Login" >Login</a></li>
+                                <li><a class="nav-link px-3 " href="/Signin" >Sign in</a></li>
+                            </ul>
+                        </div>
+                    </div>	
+                </div>
+            </nav>
+
+            <div class="limiter">
+                <div class="container-login100">
+                    <span class="login100-form-title p-b-20">
+                        Image Cloud
+                    </span>
+                    <dl class="row">
+                        <dt class="col-md-6">
+                            <div class="container">
+
+                                <img src= "" id= "expandedImg" class="center">
+                                <!-- Close the image 
+                                <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+                            
+                                 Expanded image 
+                                <img  src="" id="expandedImg" class="center" style="width: 100%">
+                            
+                                Image text 
+                                <div id="imgtext"></div>-->
+                            </div>
+                        </dt>
+                        <dd class="col-md-6">
+                            <div style="background-color: white; text-align: left;"> 
+                                <h1 style="text-align: center;">Metadados:</h1>
+                                <dl class="row">
+                                    <dt class="col-md-6"style="text-align: center;">
+                                        <span class="fs-4"> Path </span> 
+                                    </dt> 
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][1]}}</span>
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4"> Data </span> 
+                                    </dt> 
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][7]}}</span>
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">Hora </span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][6]}}</span>
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">GPS Latitude</span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][8]}}</span>
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">GPS Longitude</span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][9]}}</span>
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">Utilizador </span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                    {% if dados[0][2]== 1 %}
+                                        <span class="fs-4">diogo@gmail.com</span>
+                                    {% elif dados[0][2]== 2 %}
+                                        <span class="fs-4">freitas@gmail.com</span>
+                                    {% elif dados[0][2]== 3 %}
+                                        <span class="fs-4">emailteste@gmail.com</span>
+                                    {% elif dados[0][2]== 4 %}
+                                        <span class="fs-4">teste1@gmail.com</span>
+                                    {% endif %}
+                                    </dd>
+                
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">Descrição </span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                        <span class="fs-4">{{dados[0][10]}}</span>
+                                    </dd>
+
+                                    <dt class="col-md-6" style="text-align: center;">
+                                        <span class="fs-4">Marca </span>
+                                    </dt>
+                                    <dd class="col-md-6">
+                                    {% if dados[0][3]== 1  %}
+                                        <span class="fs-4">Samsung</span>
+                                    {% elif dados[0][3]== 2 %}
+                                        <span class="fs-4">Canon</span>    
+                                    {% elif dados[0][3]== 3 %}
+                                        <span class="fs-4">Nikon</span>    
+                                    {% elif dados[0][3]== 5 %}
+                                        <span class="fs-4">Samsung</span>
+                                    {% elif dados[0][3]== 6 %}
+                                        <span class="fs-4">Apple</span>
+                                    {% elif dados[0][3]== 7 %}
+                                        <span class="fs-4">Nikon</span>
+                                    {% elif dados[0][3]== 9 %}
+                                        <span class="fs-4">Xiaomi</span>
+                                    {% elif dados[0][3]== 11 %}
+                                        <span class="fs-4">Huawei</span>
+                                    {% elif dados[0][3]== 12 %}
+                                        <span class="fs-4">ZTE</span>
+                                    {% endif %}
+                                    </dd>
+                                </dl>
+                            </div>  
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+
+            <script>
+
+                if (localStorage.length > 0 ){
+                    // Get the expanded image
+                    var expandImg = document.getElementById("expandedImg");
+                    // Get the image text
+                    var imgText = document.getElementById("imgtext");
+                    // Use the same src in the expanded image as the image being clicked on from the grid
+                    expandImg.src = localStorage.getItem("Foto");
+                    // Show the container element (hidden with CSS)
+                    expandImg.parentElement.style.display = "block";
+
+                    localStorage.removeItem("Foto");
+                    console.log(localStorage.getItem("ImageSource1"));
+                }
+
+                function myFunction(imgs) {
+                    // Get the expanded image
+                    var expandImg = document.getElementById("expandedImg");
+                    // Get the image text
+                    var imgText = document.getElementById("imgtext");
+                    // Use the same src in the expanded image as the image being clicked on from the grid
+                    expandImg.src = imgs.src;
+                    // Use the value of the alt attribute of the clickable image as text inside the expanded image
+                    imgText.innerHTML = imgs.alt;
+                    // Show the container element (hidden with CSS)
+                    expandImg.parentElement.style.display = "block";
+                    }
+
+            </script>
+
+            <!--
+            <div style="background-color: white; text-align: center; "> 
+                <h1>Metadados:</h1>
+                <dl class="row">
+                    <dt class="col-md-6">
+                    <span class="fs-4"> Path </span> 
+                    </dt> 
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][1]}}</span>
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4"> Data </span> 
+                    </dt> 
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][7]}}</span>
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4">Hora </span>
+                    </dt>
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][6]}}</span>
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4">GPS Latitude</span>
+                    </dt>
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][8]}}</span>
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4">GPS Longitude</span>
+                    </dt>
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][9]}}</span>
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4">Utilizador </span>
+                    </dt>
+                    <dd class="col-md-6">
+                    {% if dados[0][2]== 1 %}
+                        <span class="fs-4">diogo@gmail.com</span>
+                    {% elif dados[0][2]== 2 %}
+                        <span class="fs-4">freitas@gmail.com</span>
+                    {% elif dados[0][2]== 3 %}
+                        <span class="fs-4">emailteste@gmail.com</span>
+                    {% elif dados[0][2]== 4 %}
+                        <span class="fs-4">teste1@gmail.com</span>
+                    {% endif %}
+                    </dd>
+
+                    <dt class="col-md-6">
+                        <span class="fs-4">Descrição </span>
+                    </dt>
+                    <dd class="col-md-6">
+                        <span class="fs-4">{{dados[0][10]}}</span>
+                    </dd>
+                </dl>
+            </div>-->
+        </div>
+    </body> 
+</html>

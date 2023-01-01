@@ -1,0 +1,48 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : RuaStCatarina.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 91 KiB
+File Modification Date/Time     : 2021:06:09 21:26:40+01:00
+File Access Date/Time           : 2021:06:09 21:26:40+01:00
+File Creation Date/Time         : 2021:06:05 21:48:46+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 730
+Image Height                    : 487
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- IFD0 ----
+Make                            : Nikon
+Camera Model Name               : Nikon D300S
+Resolution Unit                 : None
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exif Version                    : 0231
+Create Date                     : 2018:11:05 14:00:35
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Rua Santa Catarina , Porto
+Flashpix Version                : 0100
+---- GPS ----
+GPS Latitude Ref                : North
+GPS Latitude                    : 41 deg 9' 30.99"
+GPS Longitude Ref               : West
+GPS Longitude                   : 8 deg 36' 16.19"
+---- Composite ----
+Image Size                      : 730x487
+Megapixels                      : 0.356
+GPS Latitude                    : 41 deg 9' 30.99" N
+GPS Longitude                   : 8 deg 36' 16.19" W
+GPS Position                    : 41 deg 9' 30.99" N, 8 deg 36' 16.19" W

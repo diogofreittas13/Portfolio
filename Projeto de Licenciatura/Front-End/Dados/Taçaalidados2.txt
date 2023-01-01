@@ -1,0 +1,49 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+Warning                         : FileName encoding not specified
+---- System ----
+File Name                       : Taçaalidados2.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 188 KiB
+File Modification Date/Time     : 2021:06:09 21:26:50+01:00
+File Access Date/Time           : 2021:06:09 21:26:50+01:00
+File Creation Date/Time         : 2021:06:05 21:48:46+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 1200
+Image Height                    : 900
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 100
+Y Resolution                    : 100
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone8+
+Resolution Unit                 : None
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exif Version                    : 0231
+Create Date                     : 2021:05:29 17:45:12
+Components Configuration        : Y, Cb, Cr, -
+User Comment                    : Adeptos apreciam a taÃ§a da champions
+Flashpix Version                : 0100
+---- GPS ----
+GPS Latitude Ref                : North
+GPS Latitude                    : 41 deg 9' 0.64"
+GPS Longitude Ref               : West
+GPS Longitude                   : 8 deg 36' 38.71"
+---- Composite ----
+Image Size                      : 1200x900
+Megapixels                      : 1.1
+GPS Latitude                    : 41 deg 9' 0.64" N
+GPS Longitude                   : 8 deg 36' 38.71" W
+GPS Position                    : 41 deg 9' 0.64" N, 8 deg 36' 38.71" W

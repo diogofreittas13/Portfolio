@@ -1,0 +1,104 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : IMG_6755.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 3.0 MiB
+File Modification Date/Time     : 2021:07:05 17:20:10+01:00
+File Access Date/Time           : 2021:07:05 17:20:10+01:00
+File Creation Date/Time         : 2021:07:05 17:20:10+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Current IPTC Digest             : eda7530487cedd4bebb4f7106d21b7e3
+Image Width                     : 4032
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone XR
+Software                        : 12.3.1
+---- ExifIFD ----
+Exposure Time                   : 1/25
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 400
+Date/Time Original              : 2019:07:04 21:34:59
+Shutter Speed Value             : 1/25
+Aperture Value                  : 1.8
+Brightness Value                : -0.06710536091
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : No Flash
+Focal Length                    : 4.3 mm
+Sub Sec Time Original           : 839
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Lens Model                      : iPhone XR back camera 4.25mm f/1.8
+---- XMP-x ----
+XMP Toolkit                     : Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21
+---- XMP-photoshop ----
+Date Created                    : 2019:07:04 21:34:59
+---- XMP-aux ----
+Lens                            : iPhone XR back camera 4.25mm f/1.8
+---- XMP-xmp ----
+Creator Tool                    : 12.3.1
+---- XMP-exifEX ----
+Photographic Sensitivity        : 400
+Lens Model                      : iPhone XR back camera 4.25mm f/1.8
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 4
+Date Created                    : 2019:07:04
+Time Created                    : 21:34:59
+---- Photoshop ----
+IPTC Digest                     : eda7530487cedd4bebb4f7106d21b7e3
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- Composite ----
+Aperture                        : 1.8
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Shutter Speed                   : 1/25
+Date/Time Original              : 2019:07:04 21:34:59.839
+Date/Time Created               : 2019:07:04 21:34:59
+Focal Length                    : 4.3 mm
+Light Value                     : 4.3
+Lens ID                         : iPhone XR back camera 4.25mm f/1.8

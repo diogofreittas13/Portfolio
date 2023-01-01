@@ -1,0 +1,116 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : IMG_5366_Original.HEIC
+Directory                       : ./static/img/imagens
+File Size                       : 814 KiB
+File Modification Date/Time     : 2021:07:05 17:16:01+01:00
+File Access Date/Time           : 2021:07:05 17:16:01+01:00
+File Creation Date/Time         : 2021:07:05 17:16:01+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
+Image Width                     : 3024
+Image Height                    : 4032
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone 7
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 13.1.2
+Modify Date                     : 2019:10:15 15:34:01
+---- ExifIFD ----
+Exposure Time                   : 1/17
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0231
+Date/Time Original              : 2019:10:15 15:34:01
+Create Date                     : 2019:10:15 15:34:01
+Offset Time                     : +01:00
+Offset Time Original            : +01:00
+Offset Time Digitized           : +01:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/17
+Aperture Value                  : 1.8
+Brightness Value                : 2.672377309
+Exposure Compensation           : 0
+Metering Mode                   : Spot
+Flash                           : Auto, Did not fire
+Focal Length                    : 4.0 mm
+Subject Area                    : 3383 1019 753 756
+Sub Sec Time Original           : 628
+Sub Sec Time Digitized          : 628
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3024
+Exif Image Height               : 4032
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 28 mm
+Scene Capture Type              : Standard
+Image Unique ID                 : 13850e0c4301f0050000000000000000
+Lens Info                       : 3.99000001mm f/1.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 7 back camera 3.99mm f/1.8
+---- Apple ----
+Apple 0x0001                    : 11
+Apple 0x0002                    : bplist00O..X.W.b.h.i.b.V.K.?.,......озвч.......я[...]
+Run Time Flags                  : Valid
+Run Time Value                  : 386922907057166
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Apple 0x0004                    : 1
+Apple 0x0005                    : 230
+Apple 0x0006                    : 234
+Apple 0x0007                    : 1
+Acceleration Vector             : 0.005276696295 -1.000714779 -0.05735223738
+Apple 0x000c                    : 0.2890625 0.8359375
+Apple 0x000d                    : 41
+Apple 0x000e                    : 4
+Apple 0x000f                    : 2
+Apple 0x0010                    : 1
+Apple 0x0014                    : 5
+Apple 0x0017                    : 0
+Apple 0x0019                    : 0
+Apple 0x001a                    : q825s
+Apple 0x001f                    : 0
+Apple 0x0020                    : 90D52ED5-6123-42FB-B63D-37330C5155F3
+Apple 0x0025                    : 0
+Apple 0x0026                    : 0
+Apple 0x0027                    : 0
+Apple 0x002b                    : B00BA391-2F3E-45C4-BE5C-2A056D6F3449
+---- Photoshop ----
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+---- Composite ----
+Run Time Since Power Up         : 4 days 11:28:43
+Aperture                        : 1.8
+Image Size                      : 3024x4032
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 7.0
+Shutter Speed                   : 1/17
+Create Date                     : 2019:10:15 15:34:01.628+01:00
+Date/Time Original              : 2019:10:15 15:34:01.628+01:00
+Modify Date                     : 2019:10:15 15:34:01+01:00
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 65.5 deg
+Focal Length                    : 4.0 mm (35 mm equivalent: 28.0 mm)
+Hyperfocal Distance             : 2.07 m
+Light Value                     : 6.8
+Lens ID                         : iPhone 7 back camera 3.99mm f/1.8

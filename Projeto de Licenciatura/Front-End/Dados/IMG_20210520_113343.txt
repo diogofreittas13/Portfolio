@@ -1,0 +1,129 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+Warning                         : [minor] Unrecognized MakerNotes
+Warning                         : [minor] Unrecognized MakerNotes
+Warning                         : [minor] Unknown APP8 'HUAWEI' segment
+Warning                         : [minor] Unknown APP9 'HUAWEI' segment
+---- System ----
+File Name                       : IMG_20210520_113343.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 1377 KiB
+File Modification Date/Time     : 2021:06:28 19:19:17+01:00
+File Access Date/Time           : 2021:06:28 19:19:17+01:00
+File Creation Date/Time         : 2021:06:28 19:19:17+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 3648
+Image Height                    : 2736
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Image Width                     : 3648
+Image Height                    : 2736
+Bits Per Sample                 : 8 8 8
+Make                            : HUAWEI
+Camera Model Name               : VOG-L29
+Orientation                     : Unknown (0)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : VOG-L29 11.0.0.147(C431E8R2P3)
+Modify Date                     : 2021:05:20 11:33:46
+Y Cb Cr Positioning             : Centered
+Device Setting Description      : (Binary data 4 bytes, use -b option to extract)
+---- ExifIFD ----
+Document Name                   : 
+Exposure Time                   : 1/844
+F Number                        : 3.4
+Exposure Program                : Program AE
+ISO                             : 50
+Exif Version                    : 0210
+Date/Time Original              : 2021:05:20 11:33:46
+Create Date                     : 2021:05:20 11:33:46
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 0.95
+Shutter Speed Value             : 1/999963365
+Aperture Value                  : 3.4
+Brightness Value                : 0
+Exposure Compensation           : 0
+Max Aperture Value              : 3.4
+Metering Mode                   : Multi-segment
+Light Source                    : Daylight
+Flash                           : No Flash
+Focal Length                    : 14.5 mm
+Maker Note Unknown Text         : ##**oznorTO
+Maker Note Unknown Text         : Auto
+Sub Sec Time                    : 686076
+Sub Sec Time Original           : 686076
+Sub Sec Time Digitized          : 686076
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 3648
+Exif Image Height               : 2736
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Custom
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 270 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+---- MakerUnknown ----
+Unknown 0x0000                  : 62
+Unknown 0x0100                  : 104
+Unknown 0x0200                  : 0
+Unknown 0x0202                  : 0
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Image Width                     : 512
+Image Height                    : 384
+Compression                     : JPEG (old-style)
+Orientation                     : Unknown (0)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 1394
+Thumbnail Length                : 17976
+Thumbnail Image                 : (Binary data 17976 bytes, use -b option to extract)
+---- Huawei ----
+Unknown 0x0100                  : 20 3 19
+Unknown 0x0101                  : 1
+Unknown 0x0102                  : 94
+Unknown 0x0103                  : 256
+Unknown 0x0104                  : 12851
+Unknown 0x0105                  : 12342
+Unknown 0x0106                  : 12339
+Unknown 0x0107                  : ..
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 96
+Y Resolution                    : 96
+---- Composite ----
+Aperture                        : 3.4
+Image Size                      : 3648x2736
+Megapixels                      : 10.0
+Scale Factor To 35 mm Equivalent: 18.7
+Shutter Speed                   : 1/844
+Create Date                     : 2021:05:20 11:33:46.686076
+Date/Time Original              : 2021:05:20 11:33:46.686076
+Modify Date                     : 2021:05:20 11:33:46.686076
+Circle Of Confusion             : 0.002 mm
+Field Of View                   : 7.6 deg
+Focal Length                    : 14.5 mm (35 mm equivalent: 270.0 mm)
+Hyperfocal Distance             : 38.22 m
+Light Value                     : 14.3

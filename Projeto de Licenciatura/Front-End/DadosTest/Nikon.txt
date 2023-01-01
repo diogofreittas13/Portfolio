@@ -1,0 +1,136 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : Nikon.jpg
+Directory                       : ./Imagens
+File Size                       : 360 KiB
+File Modification Date/Time     : 2021:05:18 02:03:38+01:00
+File Access Date/Time           : 2021:05:18 02:03:38+01:00
+File Creation Date/Time         : 2021:05:18 01:58:04+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 900
+Image Height                    : 599
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 300
+Y Resolution                    : 300
+---- IFD0 ----
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D700
+Orientation                     : Horizontal (normal)
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Ver.1.02
+Modify Date                     : 2012:02:11 09:56:51
+---- ExifIFD ----
+Exposure Time                   : 1/30
+F Number                        : 4.0
+Exposure Program                : Aperture-priority AE
+ISO                             : 3200
+Exif Version                    : 0221
+Date/Time Original              : 2012:02:11 09:56:51
+Create Date                     : 2012:02:11 09:56:51
+Compressed Bits Per Pixel       : 4
+Exposure Compensation           : 0
+Max Aperture Value              : 4.0
+Metering Mode                   : Multi-segment
+Light Source                    : Tungsten (Incandescent)
+Flash                           : No Flash
+Focal Length                    : 16.0 mm
+User Comment                    : GLENNTUAZON
+Sub Sec Time                    : 58
+Sub Sec Time Original           : 58
+Sub Sec Time Digitized          : 58
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 950
+Exif Image Height               : 632
+Sensing Method                  : One-chip color area
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Manual
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 16 mm
+Scene Capture Type              : Standard
+Gain Control                    : High gain up
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Hard
+Subject Distance Range          : Unknown
+---- ICC-header ----
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+---- ICC_Profile ----
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Luminance                       : 76.03647 80 87.12462
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+---- ICC-view ----
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+---- ICC-meas ----
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+---- XMP-x ----
+XMP Toolkit                     : XMP Core 4.4.0
+---- XMP-aux ----
+Serial Number                   : 2370389
+Lens                            : 16.0-35.0 mm f/4.0
+Lens ID                         : 808494350
+Image Number                    : 1250
+Flash Compensation              : -0.333333333333333
+---- Composite ----
+Aperture                        : 4.0
+Image Size                      : 900x599
+Megapixels                      : 0.539
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/30
+Create Date                     : 2012:02:11 09:56:51.58
+Date/Time Original              : 2012:02:11 09:56:51.58
+Modify Date                     : 2012:02:11 09:56:51.58
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 96.7 deg
+Focal Length                    : 16.0 mm (35 mm equivalent: 16.0 mm)
+Hyperfocal Distance             : 2.13 m
+Light Value                     : 3.9
+Lens ID                         : Unknown (30 30 A5 0E)

@@ -1,0 +1,84 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : IMG_20200830_101310.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 3.3 MiB
+File Modification Date/Time     : 2021:06:28 18:36:03+01:00
+File Access Date/Time           : 2021:06:28 18:36:03+01:00
+File Creation Date/Time         : 2021:06:28 18:36:03+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Width                     : 4000
+Image Height                    : 3000
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Camera Model Name               : Redmi Note 8T
+Software                        : willow-user 9 PKQ1.190616.001 V11.0.9.0.PCXEUXM release-keys
+Orientation                     : Horizontal (normal)
+Modify Date                     : 2020:08:30 10:13:11
+Y Cb Cr Positioning             : Centered
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Make                            : Xiaomi
+---- ExifIFD ----
+Exif 0x9aaa                     : 85 105 17 86 150 26 145 234 255 9 93 129 92 3 98 207 25[...]
+ISO                             : 200
+Exposure Program                : Not Defined
+F Number                        : 1.8
+Exposure Time                   : 1/7985
+Exif 0x9999                     : {"mirror":false,"?sensor_type":"rear","Hdr":"off","OpMo[...]
+Sensing Method                  : Unknown (0)
+Exif 0x8895                     : 0
+Sub Sec Time Digitized          : 637231
+Sub Sec Time Original           : 637231
+Sub Sec Time                    : 637231
+Focal Length                    : 4.7 mm
+Flash                           : Off, Did not fire
+Metering Mode                   : Center-weighted average
+Scene Capture Type              : Standard
+Focal Length In 35mm Format     : 0 mm
+Create Date                     : 2020:08:30 10:13:11
+Exif Image Height               : 3000
+White Balance                   : Auto
+Date/Time Original              : 2020:08:30 10:13:11
+Brightness Value                : 7.57
+Exif Image Width                : 4000
+Exposure Mode                   : Auto
+Aperture Value                  : 1.8
+Components Configuration        : Y, Cb, Cr, -
+Color Space                     : sRGB
+Scene Type                      : Directly photographed
+Shutter Speed Value             : 1/7985
+Exif Version                    : 0220
+Flashpix Version                : 0100
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Thumbnail Offset                : 3159
+Orientation                     : Horizontal (normal)
+Thumbnail Length                : 12379
+Compression                     : JPEG (old-style)
+Resolution Unit                 : inches
+X Resolution                    : 72
+Y Resolution                    : 72
+Thumbnail Image                 : (Binary data 12379 bytes, use -b option to extract)
+---- Composite ----
+Aperture                        : 1.8
+Image Size                      : 4000x3000
+Megapixels                      : 12.0
+Shutter Speed                   : 1/7985
+Create Date                     : 2020:08:30 10:13:11.637231
+Date/Time Original              : 2020:08:30 10:13:11.637231
+Modify Date                     : 2020:08:30 10:13:11.637231
+Focal Length                    : 4.7 mm
+Light Value                     : 13.6

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- MDB -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"></script>
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.css" rel="stylesheet" />  
+
+    <!-- CSS only -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/d3d6f2df1f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/static/style/css/style.css">
+
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div>
+        <nav class="navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li><a class="nav-link active px-3" href="/HomePage" >Home</a></li>
+                        <li><a class="nav-link px-3" href="/Player" >Feed</a></li>
+                    </ul>
+                    <div class="d-flex align-items-center">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li><a class="nav-link px-3 " href="/Login" >Login</a></li>
+                            <li><a class="nav-link px-3 " href="/Signin" >Sign in</a></li>
+                        </ul>
+                    </div>
+                </div>	
+            </div>
+        </nav>
+    </div>
+    <div class="bg-image" style="background-image: url('/static/img/images/fundo.jpg');">
+        <div class="mt-4">
+            <div class="container d-flex justify-content-center">
+                <div class="col-9">
+                    <div class="row">
+                        <div class="col-12">
+                            <!-- START OF POSTS -->
+                            <div class="d-flex flex-column mt-4 mb-4">
+                                {% for imagelist in imagelist %}
+                                <div class="card mt-4 ">
+                                    <div class="card-header p-3">
+                                        <div class="d-flex flex-row align-items-center">
+                                            <div
+                                                class="rounded-circle overflow-hidden d-flex justify-content-center align-items-center border border-danger post-profile-photo mr-3">
+                                                    <img src="/static/img/images/profiles/profile-1.jpg" alt="..." style="transform: scale(1.5); width: 100%; position: absolute; left: 0;">
+                                            </div>
+                                            <span class="font-weight-bold">samkolder</span>
+                                        </div>
+                                    </div>
+                                    <div class="card-body p-0">
+                                        <div class="embed-responsive embed-responsive-1by1">
+                                                <img id="image" class="img-fluid" src="{{ imagelist }}" onclick="myfunction()" href="/UserPlayer" target="_blank" />
+                                        </div>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                            <!-- END OF POSTS -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function myFunction(imgs) {
+            ImageSource = imgs.src;
+            localStorage.setItem("ImageSource", ImageSource)
+        }
+
+    </script>
+</body>
+
+<footer>
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+</footer>
+
+</html>

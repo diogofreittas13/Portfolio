@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+</style>
+<div>
+  <svg id="legenda" width="960" height="600"></svg>
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+/*svg.append("rect")
+    .attr("width", width)
+    .attr("height", height)
+    .style("fill", "black")
+    .style("pointer-events", "all")
+    .call(d3.zoom()
+      .scaleExtent([1 / 2, 4])
+      .on("zoom", zoomed));*/
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+// CRIAR AS LEGENDAS DOS GRUPOS
+var legenda = d3.select("#legenda");
+
+
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; })
+      .strength(0)
+      .distance(100))
+    .force("charge", d3.forceManyBody())
+    .force("x", d3.forceX(function(d){
+              if(d.group === 3){
+                  return width/3
+              } else if (d.group === 4){
+                  return 2*width/3
+              } else {
+                  return width/2 
+              }
+          }))
+      .force("y", d3.forceY(function(d){
+              if(d.group === 0){
+                  return height/3
+              } else if (d.group === 2){
+                  return 2*height/3
+              } else {
+                  return height/2 
+              }
+          }))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+d3.json("/static/json/file.json", function(error, graph) {
+  if (error) throw error;
+
+  //add encompassing group for the zoom 
+  //var g = svg.append("g")
+    //.attr("class", "everything");
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append('circle')
+      .attr('r', 10)
+      .attr('fill', function(d) { return color(d.group); })
+      .on("click", function(d){
+        window.open(d.id, "_blank");
+      })
+      .call(d3.drag()
+          .on('start', dragstarted)
+          .on('drag', dragged)
+          .on('end', dragended)); 
+
+/*  var link = svg.selectAll(".links")
+      .data(json.links)
+    .enter().append("line")
+      .attr("class", "links");
+
+  var node = svg.selectAll(".nodes")
+      .data(graph.nodes)
+    .enter().append("g")
+      .attr("class", "nodes")
+      .call(force.drag);*/
+
+  /*var circles = node.append("circle")
+      .attr('r', 10)
+      .attr('fill', function(d) { return color(d.group); })
+      .call(d3.drag()
+          .on('start', dragstarted)
+          .on('drag', dragged)
+          .on('end', dragended));*/
+
+  /*
+  var imagens = node.append("image")
+      .attr("xlink:href", function(d) { return d.id; })
+      .attr("x", -8)
+      .attr("y", -8)
+      .attr("width", 16)
+      .attr("height", 16); */
+
+  //add zoom capabilities 
+  var zoom_handler = d3.zoom()
+    .scaleExtent([1/2, 64])
+    .on("zoom", zoom_actions);
+
+  zoom_handler(svg);  
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        /*.attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; })*/
+        .attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+//Zoom functions 
+function zoom_actions(){
+    svg.attr("transform", d3.event.transform)
+}
+
+</script>

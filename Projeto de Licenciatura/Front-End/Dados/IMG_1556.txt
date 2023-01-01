@@ -1,0 +1,160 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : IMG_1556.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 1295 KiB
+File Modification Date/Time     : 2021:06:21 21:37:50+01:00
+File Access Date/Time           : 2021:06:21 21:37:50+01:00
+File Creation Date/Time         : 2021:06:21 21:37:50+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Comment                         : Optimized by JPEGmini 3.18.4.211672608-TBTBLNP 0x10b5fc3a
+Image Width                     : 4032
+Image Height                    : 3024
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- IFD0 ----
+Make                            : Apple
+Camera Model Name               : iPhone XR
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 12.2
+Modify Date                     : 2019:05:03 06:41:09
+Y Cb Cr Positioning             : Centered
+---- ExifIFD ----
+Exposure Time                   : 1/257
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 25
+Exif Version                    : 0221
+Date/Time Original              : 2019:05:03 06:41:09
+Create Date                     : 2019:05:03 06:41:09
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/257
+Aperture Value                  : 1.8
+Brightness Value                : 7.450316081
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Auto, Did not fire
+Focal Length                    : 4.3 mm
+Subject Area                    : 2013 1511 2217 1330
+Sub Sec Time Original           : 336
+Sub Sec Time Digitized          : 336
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 4.25mm f/1.8
+Lens Make                       : Apple
+Lens Model                      : iPhone XR back camera 4.25mm f/1.8
+---- Apple ----
+Apple 0x0001                    : 10
+Apple 0x0002                    : bplist00O..ü......ßÇ½¸¶¶¯²¹¤¦ª........éÓ[...]
+Run Time Flags                  : Valid
+Run Time Value                  : 367709032253458
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Apple 0x0004                    : 0
+Apple 0x0005                    : 210
+Apple 0x0006                    : 201
+Apple 0x0007                    : 1
+Acceleration Vector             : -0.9538127785 0.06615458429 0.180262655
+Apple 0x000c                    : 32.18359375 44.93359375
+Apple 0x000d                    : 38
+Apple 0x000e                    : 4
+Apple 0x0010                    : 1
+Apple 0x0014                    : 10
+Apple 0x0017                    : 8192
+Apple 0x0019                    : 0
+Apple 0x001a                    : q900n
+Apple 0x001f                    : 0
+Apple 0x0021                    : 0
+Apple 0x0023                    : 80 268435564
+Apple 0x0025                    : 386
+Apple 0x0026                    : 3
+Apple 0x0027                    : 50.93227384
+Apple 0x0028                    : 1
+---- GPS ----
+GPS Latitude Ref                : North
+GPS Latitude                    : 40 deg 37' 44.34"
+GPS Longitude Ref               : West
+GPS Longitude                   : 8 deg 39' 40.55"
+GPS Altitude Ref                : Above Sea Level
+GPS Altitude                    : 11.18649769 m
+GPS Time Stamp                  : 05:41:08.76
+GPS Speed Ref                   : km/h
+GPS Speed                       : 4.752403496
+GPS Img Direction Ref           : True North
+GPS Img Direction               : 304.2184751
+GPS Dest Bearing Ref            : True North
+GPS Dest Bearing                : 304.2184751
+GPS Date Stamp                  : 2019:05:03
+GPS Horizontal Positioning Error: 283.7605839 m
+---- ICC-header ----
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+---- ICC_Profile ----
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+---- Composite ----
+Run Time Since Power Up         : 4 days 6:08:29
+Aperture                        : 1.8
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 6.1
+Shutter Speed                   : 1/257
+Create Date                     : 2019:05:03 06:41:09.336
+Date/Time Original              : 2019:05:03 06:41:09.336
+GPS Altitude                    : 11.1 m Above Sea Level
+GPS Date/Time                   : 2019:05:03 05:41:08.76Z
+GPS Latitude                    : 40 deg 37' 44.34" N
+GPS Longitude                   : 8 deg 39' 40.55" W
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.3 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 40 deg 37' 44.34" N, 8 deg 39' 40.55" W
+Hyperfocal Distance             : 2.04 m
+Light Value                     : 11.7
+Lens ID                         : iPhone XR back camera 4.25mm f/1.8

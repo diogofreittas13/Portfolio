@@ -1,0 +1,95 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+Warning                         : [minor] Unknown APP4 segment
+---- System ----
+File Name                       : SamsungGPS.jpg
+Directory                       : ./Imagens
+File Size                       : 5.4 MiB
+File Modification Date/Time     : 2021:05:31 16:32:12+01:00
+File Access Date/Time           : 2021:05:31 16:32:12+01:00
+File Creation Date/Time         : 2021:05:31 16:23:24+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 5760
+Image Height                    : 4312
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Image Height                    : 4312
+Make                            : samsung
+Orientation                     : Rotate 90 CW
+Modify Date                     : 2021:05:05 17:03:46
+Y Resolution                    : 72
+X Resolution                    : 72
+Image Width                     : 5760
+Camera Model Name               : SM-A505FN
+Software                        : A505FNXXU7CUD1
+Y Cb Cr Positioning             : Centered
+Resolution Unit                 : inches
+---- GPS ----
+GPS Latitude                    : 
+GPS Latitude Ref                : Unknown ()
+GPS Longitude Ref               : Unknown ()
+GPS Longitude                   : 
+---- ExifIFD ----
+Exif Version                    : 0220
+Aperture Value                  : 1.7
+Exposure Compensation           : 0
+Exposure Program                : Program AE
+Color Space                     : sRGB
+Image Unique ID                 : H25LSLJ02AM
+Max Aperture Value              : 1.7
+Exif Image Height               : 4312
+Date/Time Original              : 2021:05:05 17:03:46
+White Balance                   : Auto
+Exposure Mode                   : Auto
+Exposure Time                   : 1/33
+Offset Time                     : +01:00
+Flash                           : No Flash
+F Number                        : 1.7
+Exif Image Width                : 5760
+ISO                             : 400
+Focal Length In 35mm Format     : 26 mm
+Digital Zoom Ratio              : 1
+Create Date                     : 2021:05:05 17:03:46
+Metering Mode                   : Center-weighted average
+Focal Length                    : 3.9 mm
+Offset Time Original            : +01:00
+Scene Capture Type              : Standard
+Light Source                    : Unknown
+---- IFD1 ----
+Image Height                    : 384
+Y Resolution                    : 72
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 897
+Thumbnail Length                : 46723
+X Resolution                    : 72
+Image Width                     : 512
+Resolution Unit                 : inches
+Thumbnail Image                 : (Binary data 46723 bytes, use -b option to extract)
+---- Samsung ----
+Samsung Trailer 0x0a01 Name     : Image_UTC_Data
+Time Stamp                      : 2021:05:05 17:03:47+01:00
+Samsung Trailer 0x0aa1 Name     : MCC_Data
+Samsung Trailer 0x0aa1          : (Binary data 3 bytes, use -b option to extract)
+---- Composite ----
+Aperture                        : 1.7
+Image Size                      : 5760x4312
+Megapixels                      : 24.8
+Scale Factor To 35 mm Equivalent: 6.6
+Shutter Speed                   : 1/33
+Date/Time Original              : 2021:05:05 17:03:46+01:00
+Modify Date                     : 2021:05:05 17:03:46+01:00
+GPS Latitude                    : 
+GPS Longitude                   : 
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 3.9 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.00 m
+Light Value                     : 4.6

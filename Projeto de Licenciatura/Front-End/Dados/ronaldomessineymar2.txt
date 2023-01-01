@@ -1,0 +1,28 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : ronaldomessineymar2.jpg
+Directory                       : ./static/img/imagens
+File Size                       : 99 KiB
+File Modification Date/Time     : 2021:09:28 12:36:48+01:00
+File Access Date/Time           : 2021:09:28 12:36:48+01:00
+File Creation Date/Time         : 2021:09:28 12:36:48+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 1200
+Image Height                    : 800
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- Composite ----
+Image Size                      : 1200x800
+Megapixels                      : 0.960

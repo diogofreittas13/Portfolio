@@ -1,0 +1,419 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.25
+---- System ----
+File Name                       : polonia.JPG
+Directory                       : ./static/img/imagens
+File Size                       : 1038 KiB
+File Modification Date/Time     : 2021:06:28 17:24:59+01:00
+File Access Date/Time           : 2021:06:28 17:24:59+01:00
+File Creation Date/Time         : 2021:06:28 17:24:59+01:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 4898
+Image Height                    : 3265
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- IFD0 ----
+Make                            : Canon
+Camera Model Name               : Canon EOS 1200D
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Picasa
+Modify Date                     : 2019:09:04 10:16:49
+Artist                          : 
+Y Cb Cr Sub Sampling            : YCbCr4:2:2 (2 1)
+Y Cb Cr Positioning             : Co-sited
+Copyright                       : 
+---- ExifIFD ----
+Exposure Time                   : 1/100
+F Number                        : 5.6
+Exposure Program                : Not Defined
+ISO                             : 100
+Sensitivity Type                : Recommended Exposure Index
+Recommended Exposure Index      : 100
+Exif Version                    : 0230
+Date/Time Original              : 2019:09:04 10:16:49
+Create Date                     : 2019:09:04 10:16:49
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/99
+Aperture Value                  : 5.7
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 44.0 mm
+User Comment                    : 
+Sub Sec Time                    : 00
+Sub Sec Time Original           : 00
+Sub Sec Time Digitized          : 00
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 4898
+Exif Image Height               : 3265
+Focal Plane X Resolution        : 5728.176796
+Focal Plane Y Resolution        : 5808.403361
+Focal Plane Resolution Unit     : inches
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Scene Capture Type              : Standard
+Image Unique ID                 : 1b300e85bd8816930000000000000000
+Owner Name                      : 
+Serial Number                   : 083073105685
+Lens Info                       : 18-55mm f/?
+Lens Model                      : EF-S18-55mm f/3.5-5.6 III
+Lens Serial Number              : 000022915e
+---- Canon ----
+Macro Mode                      : Normal
+Self Timer                      : Off
+Quality                         : Normal
+Canon Flash Mode                : Off
+Continuous Drive                : Single
+Focus Mode                      : AI Focus AF
+Record Mode                     : JPEG
+Canon Image Size                : Large
+Easy Mode                       : Flash Off
+Digital Zoom                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Camera ISO                      : Auto
+Metering Mode                   : Evaluative
+Focus Range                     : Not Known
+Canon Exposure Mode             : Easy
+Lens Type                       : Canon EF-S 18-55mm f/3.5-5.6 III
+Max Focal Length                : 55 mm
+Min Focal Length                : 18 mm
+Focal Units                     : 1/mm
+Max Aperture                    : 5.2
+Min Aperture                    : 33
+Flash Activity                  : 0
+Flash Bits                      : (none)
+Zoom Source Width               : 0
+Zoom Target Width               : 0
+Manual Flash Output             : n/a
+Color Tone                      : Normal
+Focal Length                    : 44 mm
+Focal Plane X Unknown           : 8902
+Focal Plane Y Unknown           : 19690
+Canon Flash Info                : 0 0 0 0
+Auto ISO                        : 100
+Base ISO                        : 100
+Measured EV                     : 11.63
+Target Aperture                 : 5.7
+Target Exposure Time            : 1/102
+Exposure Compensation           : 0
+White Balance                   : Auto
+Slow Shutter                    : None
+Shot Number In Continuous Burst : 0
+Optical Zoom Code               : n/a
+Camera Temperature              : 24 C
+Flash Guide Number              : 0
+Flash Exposure Compensation     : 0
+Auto Exposure Bracketing        : Off
+AEB Bracket Value               : 0
+Control Mode                    : Camera Local Control
+F Number                        : 5.9
+Exposure Time                   : 1/91
+Measured EV 2                   : 11.875
+Bulb Duration                   : 0
+Camera Type                     : EOS High-end
+ND Filter                       : n/a
+Canon Image Type                : Canon EOS 1200D
+Canon Firmware Version          : Firmware Version 1.0.0
+Owner Name                      : 
+F Number                        : 5.9
+Exposure Time                   : 1/99
+ISO                             : 100
+Camera Temperature              : 24 C
+Focal Length                    : 44 mm
+Camera Orientation              : Horizontal (normal)
+Lens Type                       : Canon EF-S 18-55mm f/3.5-5.6 III
+Min Focal Length                : 18 mm
+Max Focal Length                : 55 mm
+Firmware Version                : 1.0.0
+Contrast Standard               : 0
+Sharpness Standard              : 3
+Saturation Standard             : 0
+Color Tone Standard             : 0
+Filter Effect Standard          : n/a
+Toning Effect Standard          : n/a
+Contrast Portrait               : 0
+Sharpness Portrait              : 2
+Saturation Portrait             : 0
+Color Tone Portrait             : 0
+Filter Effect Portrait          : n/a
+Toning Effect Portrait          : n/a
+Contrast Landscape              : 0
+Sharpness Landscape             : 4
+Saturation Landscape            : 0
+Color Tone Landscape            : 0
+Filter Effect Landscape         : n/a
+Toning Effect Landscape         : n/a
+Contrast Neutral                : 0
+Sharpness Neutral               : 0
+Saturation Neutral              : 0
+Color Tone Neutral              : 0
+Filter Effect Neutral           : n/a
+Toning Effect Neutral           : n/a
+Contrast Faithful               : 0
+Sharpness Faithful              : 0
+Saturation Faithful             : 0
+Color Tone Faithful             : 0
+Filter Effect Faithful          : n/a
+Toning Effect Faithful          : n/a
+Contrast Monochrome             : 0
+Sharpness Monochrome            : 3
+Saturation Monochrome           : n/a
+Color Tone Monochrome           : n/a
+Filter Effect Monochrome        : None
+Toning Effect Monochrome        : None
+Contrast Auto                   : 0
+Sharpness Auto                  : 3
+Saturation Auto                 : 0
+Color Tone Auto                 : 0
+Filter Effect Auto              : n/a
+Toning Effect Auto              : n/a
+Contrast User Def 1             : 0
+Sharpness User Def 1            : 3
+Saturation User Def 1           : 0
+Color Tone User Def 1           : 0
+Filter Effect User Def 1        : None
+Toning Effect User Def 1        : None
+Contrast User Def 2             : 0
+Sharpness User Def 2            : 3
+Saturation User Def 2           : 0
+Color Tone User Def 2           : 0
+Filter Effect User Def 2        : None
+Toning Effect User Def 2        : None
+Contrast User Def 3             : 0
+Sharpness User Def 3            : 3
+Saturation User Def 3           : 0
+Color Tone User Def 3           : 0
+Filter Effect User Def 3        : None
+Toning Effect User Def 3        : None
+User Def 1 Picture Style        : Auto
+User Def 2 Picture Style        : Auto
+User Def 3 Picture Style        : Auto
+Canon Model ID                  : EOS Rebel T5 / 1200D / Kiss X70 / Hi
+Thumbnail Image Valid Area      : 0 159 7 112
+Canon 0x0019                    : 1
+AF Info Size                    : 96
+AF Area Mode                    : Auto
+Num AF Points                   : 9
+Valid AF Points                 : 9
+Canon Image Width               : 5184
+Canon Image Height              : 3456
+AF Image Width                  : 5184
+AF Image Height                 : 3456
+AF Area Widths                  : 181 129 129 129 222 129 129 129 181
+AF Area Heights                 : 117 172 172 172 224 172 172 172 117
+AF Area X Positions             : 0 -839 839 -1394 0 1394 -839 839 0
+AF Area Y Positions             : 743 393 393 0 0 0 -393 -393 -743
+AF Points In Focus              : 1,6
+AF Points Selected              : 0,1,2,3,4,5,6,7,8
+Time Zone                       : +01:00
+Time Zone City                  : London
+Daylight Savings                : On
+Bracket Mode                    : Off
+Bracket Value                   : 0
+Bracket Shot Number             : 0
+Raw Jpg Size                    : Large
+Long Exposure Noise Reduction 2 : Off
+WB Bracket Mode                 : Off
+WB Bracket Value AB             : 0
+WB Bracket Value GM             : 0
+Live View Shooting              : Off
+Focus Distance Upper            : inf
+Focus Distance Lower            : 5.27 m
+Flash Exposure Lock             : Off
+Lens Model                      : EF-S18-55mm f/3.5-5.6 III
+Internal Serial Number          : MA1031155
+Dust Removal Data               : (Binary data 1024 bytes, use -b option to extract)
+Crop Left Margin                : 0
+Crop Right Margin               : 0
+Crop Top Margin                 : 0
+Crop Bottom Margin              : 0
+Aspect Ratio                    : 3:2
+Cropped Image Width             : 5184
+Cropped Image Height            : 3456
+Cropped Image Left              : 0
+Cropped Image Top               : 0
+Tone Curve                      : Standard
+Sharpness                       : 3
+Sharpness Frequency             : n/a
+Sensor Red Level                : 0
+Sensor Blue Level               : 0
+White Balance Red               : 0
+White Balance Blue              : 0
+Color Temperature               : 5200
+Picture Style                   : Auto
+Digital Gain                    : 0
+WB Shift AB                     : 0
+WB Shift GM                     : 0
+Measured RGGB                   : 507 1024 1024 593
+Color Space                     : sRGB
+VRD Offset                      : 0
+Sensor Width                    : 5344
+Sensor Height                   : 3516
+Sensor Left Border              : 152
+Sensor Top Border               : 56
+Sensor Right Border             : 5335
+Sensor Bottom Border            : 3511
+Black Mask Left Border          : 0
+Black Mask Top Border           : 0
+Black Mask Right Border         : 0
+Black Mask Bottom Border        : 0
+Color Data Version              : 10 (600D/1200D)
+WB RGGB Levels As Shot          : 2024 1024 1024 1702
+Color Temp As Shot              : 4781
+WB RGGB Levels Auto             : 2024 1024 1024 1702
+Color Temp Auto                 : 4781
+WB RGGB Levels Measured         : 2024 1024 1024 1702
+Color Temp Measured             : 4781
+WB RGGB Levels Unknown          : 2024 1024 1024 1702
+Color Temp Unknown              : 4781
+WB RGGB Levels Unknown 2        : 2024 1024 1024 1702
+Color Temp Unknown 2            : 4781
+WB RGGB Levels Unknown 3        : 2024 1024 1024 1702
+Color Temp Unknown 3            : 4781
+WB RGGB Levels Unknown 4        : 2022 1021 1026 1701
+Color Temp Unknown 4            : 4781
+WB RGGB Levels Unknown 5        : 0 0 0 0
+Color Temp Unknown 5            : 0
+WB RGGB Levels Daylight         : 2110 1024 1024 1591
+Color Temp Daylight             : 5200
+WB RGGB Levels Shade            : 2433 1024 1024 1351
+Color Temp Shade                : 7000
+WB RGGB Levels Cloudy           : 2270 1024 1024 1462
+Color Temp Cloudy               : 6000
+WB RGGB Levels Tungsten         : 1513 1024 1024 2394
+Color Temp Tungsten             : 3200
+WB RGGB Levels Fluorescent      : 1856 1024 1024 2280
+Color Temp Fluorescent          : 3729
+WB RGGB Levels Kelvin           : 2110 1024 1024 1591
+Color Temp Kelvin               : 5200
+WB RGGB Levels Flash            : 2362 1024 1024 1442
+Color Temp Flash                : 6339
+WB RGGB Levels Unknown 6        : 2110 1024 1024 1591
+Color Temp Unknown 6            : 5200
+WB RGGB Levels Unknown 7        : 2110 1024 1024 1591
+Color Temp Unknown 7            : 5200
+WB RGGB Levels Unknown 8        : 2110 1024 1024 1591
+Color Temp Unknown 8            : 5200
+WB RGGB Levels Unknown 9        : 2110 1024 1024 1591
+Color Temp Unknown 9            : 5200
+WB RGGB Levels Unknown 10       : 2110 1024 1024 1591
+Color Temp Unknown 10           : 5200
+WB RGGB Levels Unknown 11       : 975 1024 1024 1025
+Color Temp Unknown 11           : 4041
+WB RGGB Levels Unknown 12       : 975 1024 1024 1025
+Color Temp Unknown 12           : 4041
+WB RGGB Levels Unknown 13       : 975 1024 1024 1025
+Color Temp Unknown 13           : 4041
+WB RGGB Levels Unknown 14       : 975 1024 1024 1025
+Color Temp Unknown 14           : 4041
+WB RGGB Levels Unknown 15       : 975 1024 1024 1025
+Color Temp Unknown 15           : 4041
+Camera Color Calibration 01     : -332  377  919 (10900K)
+Camera Color Calibration 02     : -315  385  896 (10000K)
+Camera Color Calibration 03     : -269  405  837 (8300K)
+Camera Color Calibration 04     : -217  431  776 (7000K)
+Camera Color Calibration 05     : -161  462  717 (6000K)
+Camera Color Calibration 06     : -134  478  689 (5600K)
+Camera Color Calibration 07     : -104  497  659 (5200K)
+Camera Color Calibration 08     :  -55  524  609 (4700K)
+Camera Color Calibration 09     :    5  565  557 (4200K)
+Camera Color Calibration 10     :   58  605  515 (3800K)
+Camera Color Calibration 11     :  106  643  478 (3500K)
+Camera Color Calibration 12     :  164  693  438 (3200K)
+Camera Color Calibration 13     :  215  736  402 (3000K)
+Camera Color Calibration 14     :  258  786  381 (2800K)
+Camera Color Calibration 15     :  365  918  330 (2400K)
+Average Black Level             : 2046 2046 2046 2046
+Raw Measured RGGB               : 326528 639547 630122 357995
+Per Channel Black Level         : 2046 2046 2046 2046
+Specular White Level            : 12279
+Linearity Upper Margin          : 10000
+Picture Style User Def          : Auto; Auto; Auto
+Picture Style PC                : None; None; None
+Custom Picture Style File Name  : 
+Canon 0x4011                    : [...]
+Canon 0x4012                    : 
+Vignetting Corr Version         : 0
+Peripheral Lighting             : On
+Distortion Correction           : Off
+Chromatic Aberration Corr       : Off
+Chromatic Aberration Corr       : Off
+Peripheral Lighting Value       : 70
+Distortion Correction Value     : 0
+Original Image Width            : 5184
+Original Image Height           : 3456
+Peripheral Lighting Setting     : On
+Canon 0x4017                    : 263170 1509949465
+Peripheral Illumination Corr    : Off
+Auto Lighting Optimizer         : Standard
+Lens Serial Number              : 000022915e
+Ambience Selection              : Standard
+---- CanonCustom ----
+Exposure Level Increments       : 1/3 Stop
+ISO Expansion                   : Off
+Flash Sync Speed Av             : Auto
+Long Exposure Noise Reduction   : Off
+High ISO Noise Reduction        : Off
+Highlight Tone Priority         : Disable
+AF Assist Beam                  : Emits
+Shutter Button AF On Button     : Metering + AF start
+Set Button When Shooting        : Normal (disabled)
+Flash Button Function           : Raise built-in flash
+LCD Display At Power On         : Display
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- IFD1 ----
+Compression                     : JPEG (old-style)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 8252
+Thumbnail Length                : 7136
+Thumbnail Image                 : (Binary data 7136 bytes, use -b option to extract)
+---- XMP-x ----
+XMP Toolkit                     : XMP Core 5.5.0
+---- XMP-xmp ----
+Rating                          : 0
+---- Composite ----
+Drive Mode                      : Single-frame Shooting
+ISO                             : 100
+Lens                            : 18.0 - 55.0 mm
+Shooting Mode                   : Flash Off
+WB RGGB Levels                  : 2024 1024 1024 1702
+Aperture                        : 5.6
+Blue Balance                    : 1.662109
+Image Size                      : 4898x3265
+Lens ID                         : Canon EF-S 18-55mm f/3.5-5.6 III
+Megapixels                      : 16.0
+Red Balance                     : 1.976563
+Scale Factor To 35 mm Equivalent: 1.6
+Shutter Speed                   : 1/100
+Create Date                     : 2019:09:04 10:16:49.00
+Date/Time Original              : 2019:09:04 10:16:49.00
+Modify Date                     : 2019:09:04 10:16:49.00
+Lens                            : 18.0 - 55.0 mm (35 mm equivalent: 28.3 - 86.5 mm)
+Circle Of Confusion             : 0.019 mm
+Depth Of Field                  : inf (17.16 m - inf)
+Field Of View                   : 29.2 deg
+Focal Length                    : 44.0 mm (35 mm equivalent: 69.2 mm)
+Hyperfocal Distance             : 18.10 m
+Light Value                     : 11.6
