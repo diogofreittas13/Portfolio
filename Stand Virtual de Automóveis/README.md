@@ -1,5 +1,5 @@
 Stand Virtual de Automóveis
 
 Tecnologias:
-- Python
-- MySQL
+- Python (Flask)
+- Base de dados (MySQL)
