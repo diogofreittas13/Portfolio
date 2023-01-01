@@ -1,0 +1,103 @@
+.breadcrumbs_area {
+    background: #2e2d2d;
+  }
+  
+.breadcrumb_content {
+padding: 5px 0;
+}
+.breadcrumb_content ul li {
+display: inline-block;
+text-transform: capitalize;
+font-size: 14px;
+margin-top: 3px;
+margin-right: 3px;
+padding-right: 13px;
+position: relative;
+color: #ea000d;
+}
+.breadcrumb_content ul li::before {
+position: absolute;
+content: "/";
+right: 0;
+top: 50%;
+transform: translatey(-50%);
+}
+.breadcrumb_content ul li:last-child {
+margin-right: 0;
+}
+.breadcrumb_content ul li:last-child::before {
+display: none;
+}
+.breadcrumb_content ul li a {
+color: #e2e0e0;
+}
+.breadcrumb_content ul li a:hover {
+text-decoration: underline;
+}
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+
+table {
+    border-spacing: 20px;
+}
+
+#productName {
+    text-align: center;
+    font-weight: bold;
+}
+
+#productPrice {
+    text-align: center;
+}
+/*
+#itemImage {
+    height: 400px;
+    width: 500px;
+}
+*/
+#productDescription {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    font-size: 19px;
+}
+
+#descriptionTable td {
+    width: 150px;
+}
+
+#addToCart {
+    font-size: 20px;
+}
+
+.css_break_out {
+    width: calc((100% + (100vw - 100%) / 2) + 15px);
+    position: relative;
+    left: calc(-1 * (100vw - 100%) / 2);
+}
+
+@media (min-width: 576px) {
+    .css_break_out {
+        width: calc((100% + (100vw - 100% - 15px)));
+        position: relative;
+        left: calc(-1 * (100vw - 100% - 15px) / 2);
+    }
+}
+
+@media (min-width: 768px) {
+    .css_break_out {
+        width: calc((100% + (100vw - 200%) / 2) - 15px);
+        position: relative;
+        left: 0;
+    }
+}

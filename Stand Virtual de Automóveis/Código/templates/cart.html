@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    <!--Bootstrap icons-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" type="text/css" href="/static/css/userhome.css">
+    
+</head>
+<body>
+    <nav class="navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li><a class="nav-link active px-3" href="/userhome" >Home</a></li>
+                    <!--<li><a class="nav-link px-3" href="/add" >Adicionar</a></li>-->
+                </ul>
+                <div class="d-flex align-items-center">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li><a class="nav-link px-3" href="/"><i class="bi bi-cart3"></i> Carrinho</a></li>
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="bi bi-person-circle"></i> {{user}}
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                                <li><a class="dropdown-item" href="/perfil">Perfil</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="/logout">Log out</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>	
+        </div>
+    </nav>
+    <div class="container py-3 h-100">
+    <h3 class="mt-3 mb-5">Carrinho de Compras</h3>
+        <div class="card bg-light text-black" style="border-color: black;">
+            <form method="post" enctype="multipart/form-data">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th scope="col">Nome</th>
+                            <th scope="col">Preço</th>
+                            <th scope="col" style="width: 1cm"></th>
+                        </tr>
+                    </thead>
+                    {% if dados %}
+                    {% for data in dados%}
+                    <tbody>
+                        <tr>
+                            <td>{{data[16]}} {{data[14]}}</td>
+                            <td>{{data[8]}}€</td>
+                            <td>
+                                <button id="apagar" name="apagar" type="submit" class="btn btn-danger" value="{{data[0]}}" ><i class="bi bi-trash"></i></button>
+                                <!-- Modal 
+                                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">Deseja apagar a conta?</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                        Tem a certeza que deseja apagar esta conta?
+                                        </div>
+                                        <div class="modal-footer">
+                                            <form method="post" enctype="multipart/form-data">
+                                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                                                <button id="apagar" name="apagar" type="submit" class="btn btn-danger" value="{{data[0]}}">Apagar</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>-->
+                            </td>
+                        </tr>
+                    </tbody>
+                    {% endfor %}
+                    {% endif %}
+                </table> 
+
+                <table class="table table-borderless">
+                    <tr>
+                        <th style="width: 5cm;">Total de pagamento:</th>
+                        <td>{{preço}}€</td>
+                    </tr>
+                </table>
+
+
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        <div class=flashes style="text-align: center;">
+                        {% for message in messages %}
+                            <span class="txt1" style="color: red; text-align: center;">{{ message }}</span><br>
+                        {% endfor %}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+
+                {% if dados %}
+
+                <center>
+                    <button id="comprar" name="comprar" class="btn btn-primary mb-3" type="submit" value="comprar">Efetuar pagamento</button>
+                </center>
+
+                {% endif %}
+            </form> 
+        </div>
+    </div>
+</body>
+</html>
